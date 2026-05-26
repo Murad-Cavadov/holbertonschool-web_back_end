@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 This module provides a type-annotated function 'sum_mixed_list' that
